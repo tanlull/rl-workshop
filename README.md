@@ -120,3 +120,4 @@ Each notebook contains the content and code-along of each session. We recommend 
 * [Unity ML-Agent Toolkit](https://github.com/Unity-Technologies/ml-agents) - an open-source Unity plugin that enables games and simulations to serve as environments for training intelligent agents
 * [SLM Labs](https://github.com/kengz/SLM-Lab) - a modular deep reinforcement learning framework in PyTorch
 * [Dopamine](https://github.com/google/dopamine) - a research framework for fast prototyping of reinforcement learning algorithms
+* [TRF](https://github.com/deepmind/trfl/) - a library built on top of TensorFlow that exposes several useful building blocks for implementing Reinforcement Learning agent
