@@ -105,6 +105,7 @@ Each notebook contains the content and code-along of each session. We recommend 
 * [Siraj's Move 37](https://www.theschool.ai/courses/move-37-course/)
 * [Denny Britz Repo](https://github.com/dennybritz/reinforcement-learning/)
 * [Intro to RL in Trading](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/)
+* [Hands-On Reinforcement Learning With Python](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python)
 
 ## Environments
 * [OpenAI Gym](https://github.com/openai/gym) - a toolkit for developing and comparing reinforcement learning algorithms
